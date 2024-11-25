@@ -1,6 +1,6 @@
 # Polynomials
 This is a simple polynomial class:
--init: This function should accept a list of coefficients and create a polynomial object.
+- init: This function should accept a list of coefficients and create a polynomial object.
 -str: This function will define what is printed when the user calls print with a polynomial as the argument.
 -add: Add an input polynomial to the polynomial referred to by "self" (returns new polynomial).
 -degree: Return the order of a polynomial.
